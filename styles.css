@@ -1,0 +1,466 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    font-family: 'Rochester', cursive;
+    text-align: justify;
+    width: 100%;
+    height: 600px;
+    font-size: 2rem;
+}
+
+h1 {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+
+h2 {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+.h32 {
+    text-align: justify;
+}
+
+.p1006 {
+    width: 100%;
+    height: 400px;
+    padding-bottom: 50px;
+
+}
+
+.p10062 {
+    width: 100%;
+    height: 1900px;
+}
+
+h4 {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+h5 {
+    font-family: 'Rochester', cursive;
+    font-size: 2rem;
+    color: crimson;
+}
+
+nav ul {
+    background-color: dimgrey;
+    border-style: hidden;
+    padding: 15px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 70px;
+    margin-left: 70px;
+    color: white;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: lightgray;
+}
+
+.li2 {
+    list-style-type: none;
+    text-align: justify;
+}
+
+.p100 {
+    width: 100%;
+    height: 600px;
+    float: left;
+}
+
+.p1002 {
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+
+.p1003 {
+    width: 100%;
+    height: 400px;
+    float: left;
+}
+
+.p1004 {
+    width: 100%;
+    height: 750px;
+    float: left;
+}
+
+.p1005 {
+    width: 90%;
+    height: 250px;
+    float: left;
+    padding-left: 70px;
+    padding-top: 40px;
+}
+
+.p1007 {
+    width: 50%;
+    height: 710px;
+    float: left;
+    padding-top: 40px;
+    padding-left: 60px;
+}
+
+.p58 {
+    width: 54%;
+    height: 600px;
+    float: left;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.p42 {
+    width: 38%;
+    height: 600px;
+    float: left;
+    padding-top: 40px;
+}
+
+.p54 {
+    width: 54%;
+    height: 500px;
+    float: left;
+    padding-left: 40px;
+}
+
+.p46 {
+    width: 41%;
+    height: 400px;
+    float: left;
+    padding-top: 40px;
+}
+
+.p50 {
+    width: 46%;
+    height: 400px;
+    float: left;
+    padding: 40px;
+}
+
+.p25 {
+    width: 22%;
+    height: 400px;
+    float: left;
+    padding-left: 20px;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.p56 {
+    width: 54%;
+    height: 750px;
+    float: left;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.p44 {
+    width: 36%;
+    height: 750px;
+    float: left;
+    padding-left: 60px;
+}
+
+.p52 {
+    width: 58%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+    padding-top: 60px;
+}
+
+.p48 {
+    width: 30%;
+    height: 600px;
+    float: left;
+    padding-left: 60px;
+}
+
+.p481 {
+    width: 30%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+}
+
+.p521 {
+    width: 58%;
+    height: 600px;
+    float: left;
+    padding-top: 70px;
+    padding-right: 70px;
+    padding-left: 30px;
+}
+
+.p522 {
+    width: 60%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+}
+
+.p482 {
+    width: 30%;
+    height: 600px;
+    float: left;
+    padding-left: 33px;
+}
+
+.p483 {
+    width: 30%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+}
+
+.p523 {
+    width: 58%;
+    height: 600px;
+    float: left;
+    padding-top: 40px;
+    padding-left: 25px;
+}
+
+.p524 {
+    width: 60%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+    padding-top: 110px;
+}
+
+.p484 {
+    width: 30%;
+    height: 600px;
+    float: left;
+    padding-left: 32px;
+}
+
+.p485 {
+    width: 30%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+}
+
+.p525 {
+    width: 58%;
+    height: 600px;
+    float: left;
+    padding-top: 90px;
+    padding-left: 30px;
+}
+
+.p526 {
+    width: 60%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+    padding-top: 150px;
+}
+
+.p486 {
+    width: 30%;
+    height: 600px;
+    float: left;
+    padding-left: 30px;
+}
+
+.p487 {
+    width: 30%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+}
+
+.p527 {
+    width: 58%;
+    height: 600px;
+    float: left;
+    padding-top: 140px;
+    padding-left: 30px;
+}
+
+.p528 {
+    width: 60%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+    padding-top: 130px;
+}
+
+.p488 {
+    width: 30%;
+    height: 600px;
+    float: left;
+    padding-left: 33px;
+}
+
+.p489 {
+    width: 30%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+}
+
+.p529 {
+    width: 58%;
+    height: 600px;
+    float: left;
+    padding-top: 140px;
+    padding-left: 30px;
+}
+
+.p5210 {
+    width: 60%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+    padding-top: 150px;
+}
+
+.p4810 {
+    width: 30%;
+    height: 600px;
+    float: left;
+    padding-left: 33px;
+}
+
+.p60 {
+    width: 58%;
+    height: 600px;
+    float: left;
+    padding-left: 60px;
+    padding-top: 40px;
+
+}
+
+.p40 {
+    width: 28%;
+    height: 600px;
+    float: left;
+    padding-left: 80px;
+    padding-top: 40px;
+
+}
+
+.p602 {
+    width: 44%;
+    height: 600px;
+    float: left;
+    padding-left: 60px;
+    padding-top: 40px;
+
+}
+
+.p402 {
+    width: 44%;
+    height: 750px;
+    float: left;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+
+.p403 {
+    width: 28%;
+    height: 600px;
+    float: left;
+    padding-left: 60px;
+}
+
+.p603 {
+    width: 60%;
+    height: 600px;
+    float: left;
+    padding-left: 50px;
+    padding-top: 120px;
+}
+
+.section {
+    position: relative;
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.section h1 {
+    text-align: center;
+    font-size: 4rem;
+    padding: 20px;
+    margin: 15px;
+    z-index: 1;
+    opacity: 0.8;
+}
+
+.video-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin: 25px;
+    padding: 10px;
+}
+
+.color-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: white;
+    width: 95%;
+    height: 100vh;
+    opacity: 0.5;
+}
+
+video {
+    width: 95%;
+    height: 95%;
+}
+
+.a2:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.a2:visited {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.a2:hover {
+    color: crimson;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.a2:active {
+    color: crimson;
+    background-color: transparent;
+    text-decoration: none;
+}
